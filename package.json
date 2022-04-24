@@ -1,0 +1,24 @@
+{
+  "name": "JavaScript-Ajax-Fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luis-Torres-Chuquilin/JavaScript-Ajax-Fetch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luis-Torres-Chuquilin/JavaScript-Ajax-Fetch/issues"
+  },
+  "homepage": "https://github.com/Luis-Torres-Chuquilin/JavaScript-Ajax-Fetch#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.3",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
